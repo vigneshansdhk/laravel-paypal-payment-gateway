@@ -1,0 +1,19 @@
+paypal
+-------
+
+personal account
+----------------
+ 
+sb-aj43pp27463885@personal.example.com
+741583rvs
+
+Business account
+----------------
+
+sb-kgorz27374192@business.example.com
+741583rvs
+
+client id : AW7l5L_Bn1kcg8PYtM3B5shRfnxg2Cd0ad2QaDS3Zj3f3cTA0OecBfXdePGfNocugjMzT54qaVRoDZkQ
+secret key : EBQUIxOFbTVEGskaMAU0xpT6aOx_nh5Jxx03_VT48KN7RUKoBPrnVjuQZmInvYgbSfs99UnZOZ48nLaP
+
+ 
